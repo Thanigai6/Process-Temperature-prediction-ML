@@ -66,6 +66,4 @@ This project demonstrates how Machine Learning can be used in mechanical enginee
 
 📊 Project Output
 
-The graph shows the relationship between air temperature and machine process temperature using Linear Regression.
-
 ![Process Temperature Prediction Graph](M10_Machine%20Output%20Graph.jpeg)
