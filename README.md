@@ -63,3 +63,10 @@ Output: Process Temperature (K)
 👨‍💻 Project Outcome
 
 This project demonstrates how Machine Learning can be used in mechanical engineering to predict machine operating conditions and support smarter industrial operations.
+
+📊 Project Output
+
+The graph below shows the actual process temperature
+and the predicted regression line.
+
+![Temperature Prediction Graph](temperature_prediction_graph.png)
